@@ -1,7 +1,7 @@
 import { useQuery } from "@apollo/client";
 import type { V2_MetaFunction } from "@remix-run/node";
 import type { Country } from "~/graphql/__generated__/graphql";
-import { GET_ALL_COUNTRIES } from "~/graphql/__generated__/queries";
+import { GET_ALL_COUNTRIES } from "~/graphql/queries";
 
 export const meta: V2_MetaFunction = () => {
   return [
