@@ -1,6 +1,6 @@
 # Welcome to this tutorial using remix.run and Apollo
 This is a simple example of how to implement querying GraphQL with Apollo and remix.run.
-The step by step tutorial is available on medium [here](https://carbonable.medium.com/).
+The step by step tutorial is available on medium [here](https://carbonable.medium.com/build-a-remix-app-with-apollo-and-graphql-7a1d10395224).
 
 ## Prerequisites 
 
